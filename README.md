@@ -1,4 +1,4 @@
-This program allows you to easily convert Roman numerals to Arabic. The conversion code is written in Javascript, the site design is done in Vite.
+This program allows you to easily convert Roman numerals to Arabic. The conversion code is written in Javascript, the site design is done in Vite.<br><br>
 You can study the working version of the converter at: https://calculator-4a6f7.web.app/
 
 # Vue 3 + Vite
